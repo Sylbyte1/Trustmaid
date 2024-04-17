@@ -1,5 +1,5 @@
-- 👋 **Hiya**, I’m @Sylbyte
-- 👀 I’m interested in **"FNF Mods", "Minecraft Modding", "Geometry Dash", "Mastering Javascript"**
+- 👋 **Hiya**, I’m @Arrhythmia
+- 👀 I’m interested in **"Minecraft Modding", "Geometry Dash", "Mastering Javascript"**
 - 🌱 I’m currently learning "Java"
 - 📫 Here's my carrd! [Click Me!](https://imcamandthisisacarddontaskwhyidi.carrd.co/)
 - 😄 Pronouns: He, Him, His
